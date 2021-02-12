@@ -53,6 +53,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'user.apps.UserConfig',
+    'printer.apps.PrinterConfig',
+    'stock_mn.apps.StockMnConfig',
 ]
 
 MIDDLEWARE = [
