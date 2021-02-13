@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     'user.apps.UserConfig',
     'printer.apps.PrinterConfig',
     'stock_mn.apps.StockMnConfig',
+    'product.apps.ProductConfig',
 ]
 
 MIDDLEWARE = [
